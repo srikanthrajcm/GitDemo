@@ -17,5 +17,17 @@ public class second_Testng {
 		Assert.assertEquals(false, true);
 		System.out.println("Bye");
 	}
+	
+	@Test
+	public void demo2() {
+		Assert.assertEquals(false, true);
+		System.out.println("Bye");
+	}
+	
+	@Test
+	public void demo3() {
+		Assert.assertEquals(false, true);
+		System.out.println("Bye");
+	}
 
 }
