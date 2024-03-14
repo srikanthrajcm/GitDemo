@@ -7,6 +7,8 @@ public class second_Testng {
 	@Test
 	public void demo() {
 		System.out.println("Hello");
+		
+		System.out.println("Hello6");
 	}
 	
 
